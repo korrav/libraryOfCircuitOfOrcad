@@ -18,5 +18,6 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 336"))
-      (Tab 0))))
+        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 336"))
+      (Tab 0)))
+  (MPSSessionName "andrej"))
